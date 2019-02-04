@@ -165,6 +165,7 @@ input.form-control:focus {
 .footer-image{
 	background-image: url("../img/footer-image.png");
 	height:60%;
+	width: 100%;
 	background-repeat: no-repeat;
 	image-rendering: auto;
 }
